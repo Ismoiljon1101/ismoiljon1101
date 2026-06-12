@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════ HEADER WAVE BANNER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2238,50:1F3A5F,100:2E6FB0&amp;height=220&amp;section=header&amp;text=Ismoiljon%20Masharipov&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Seoul%2C%20South%20Korea&amp;descSize=16&amp;descColor=A8C4E0&amp;descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2238,50:1F3A5F,100:2E6FB0&amp;height=220&amp;section=header&amp;text=Ismoiljon%20Masharipov&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%7C%20AI%20Engineer%20%E2%80%A2%20Seoul&amp;descSize=16&amp;descColor=A8C4E0&amp;descAlignY=55" width="100%" />
 </p>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
@@ -57,11 +57,11 @@ what_drives_me: >
 
 <p align="center">
   <a href="https://github.com/ismoiljon1101">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ismoiljon1101&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;icon_color=E0B05F&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ismoiljon1101&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_rank=true&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;icon_color=E0B05F&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ismoiljon1101">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoiljon1101&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false&amp;langs_count=8&amp;hide=html,css,scss,c,c%2B%2B,shell,nsis,powershell,ejs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoiljon1101&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false&amp;langs_count=8&amp;hide=HTML,CSS,SCSS,C,C%2B%2B,Shell,NSIS,PowerShell,EJS,Mermaid,Dockerfile" />
   </a>
 </p>
 
