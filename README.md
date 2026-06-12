@@ -7,7 +7,7 @@
 <p align="center"><a href="https://portfolio.ismaildev.uz"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2238,50:1F3A5F,100:2E6FB0&amp;height=220&amp;section=header&amp;text=Ismoiljon%20Masharipov&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%7C%20AI%20Engineer%20%E2%80%A2%20Seoul&amp;descSize=16&amp;descColor=A8C4E0&amp;descAlignY=55" width="100%" /></a></p>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<p align="center"><a href="https://github.com/ismoiljon1101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2E6FB0&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%9A%80+Ships+production+systems+%E2%80%94+not+demos;%F0%9F%96%A5%EF%B8%8F+Self-hosts+every+project+on+a+Raspberry+Pi+5;%F0%9F%8E%AF+NestJS+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI%2FRAG;%F0%9F%87%BA%F0%9F%87%BF+Tashkent+%E2%86%92+%F0%9F%87%B0%F0%9F%87%B7+Seoul" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/ismoiljon1101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2E6FB0&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%9A%80+Ships+production+systems+%E2%80%94+not+demos;%F0%9F%96%A5%EF%B8%8F+Self-hosts+and+manages+private+Linux+servers;%F0%9F%8E%AF+NestJS+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI%2FRAG;%F0%9F%87%BA%F0%9F%87%BF+Tashkent+%E2%86%92+%F0%9F%87%B0%F0%9F%87%B7+Seoul" alt="Typing SVG" /></a></p>
 
 <!-- ═══════════════════ QUICK LINKS ═══════════════════ -->
 <p align="center"><a href="https://portfolio.ismaildev.uz"><img src="https://img.shields.io/badge/Portfolio-ismaildev.uz-1F3A5F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&nbsp;<a href="https://linkedin.com/in/ismoiljonmasharipov"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;<a href="mailto:career@ismaildev.uz"><img src="https://img.shields.io/badge/Email-career%40ismaildev.uz-E0B05F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a></p>
@@ -24,7 +24,7 @@ origin: Tashkent, Uzbekistan
 education: B.S. Computer Science — Sejong University (graduating Jul 2026)
 role: Contract Software Engineer @ Braintrust Network
 focus: Full-Stack & AI Engineering
-infrastructure: Raspberry Pi 5 home server — 11 PM2 + 3 Docker containers
+infrastructure: Bare-metal Linux home server — 11 PM2 + 3 Docker containers
 
 languages:
   - Uzbek       # Native
@@ -44,7 +44,7 @@ what_drives_me: >
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ismoiljon1101"><img height="180" src="https://github-readme-stats.vercel.app/api?username=ismoiljon1101&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_rank=true&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;icon_color=E0B05F&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false" /></a>
+  <a href="https://github.com/ismoiljon1101"><img height="180" src="https://github-readme-stats.vercel.app/api?username=ismoiljon1101&amp;show_icons=true&amp;count_private=true&amp;hide_rank=true&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;icon_color=E0B05F&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/ismoiljon1101"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoiljon1101&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false&amp;langs_count=8&amp;hide=HTML,CSS,SCSS,C,C%2B%2B,Shell,NSIS,PowerShell,EJS,Mermaid,Dockerfile" /></a>
 </p>
@@ -149,7 +149,7 @@ what_drives_me: >
 <table>
   <tr>
     <td width="60%"><br/>
-      <p>Every live link I show you is served from a <b>Raspberry Pi 5</b> I built from scratch:</p>
+      <p>Every live link I show you is served from a <b>bare-metal Linux server</b> I configured and maintain:</p>
       <ul>
         <li>⚙️ Manual OS install on SSD, network/IP config</li>
         <li>🔀 Nginx reverse proxy across 9 vhosts</li>
@@ -162,7 +162,7 @@ what_drives_me: >
       <blockquote><i>"Most candidates have never deployed past 'it works on Vercel.' I run the box."</i></blockquote>
     </td>
     <td width="40%" align="center"><br/>
-      <b>🌐 Live, served from my Pi 5:</b><br/><br/>
+      <b>🌐 Live, self-hosted on my server:</b><br/><br/>
       <a href="https://pasarhalalkorea.com">pasarhalalkorea.com</a><br/>
       <a href="https://bigbrothers.uz">bigbrothers.uz</a><br/>
       <a href="https://meditech.ismaildev.uz">meditech.ismaildev.uz</a><br/>
