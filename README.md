@@ -6,8 +6,12 @@
 <!-- ═══════════════════ HEADER WAVE BANNER ═══════════════════ -->
 <p align="center"><a href="https://portfolio.ismaildev.uz"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2238,50:1F3A5F,100:2E6FB0&amp;height=220&amp;section=header&amp;text=Ismoiljon%20Masharipov&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%7C%20AI%20Engineer%20%E2%80%A2%20Seoul&amp;descSize=16&amp;descColor=A8C4E0&amp;descAlignY=55" width="100%" /></a></p>
 
+<br/><br/>
+
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <p align="center"><a href="https://github.com/ismoiljon1101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2E6FB0&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%9A%80+Ships+production+systems+%E2%80%94+not+demos;%F0%9F%96%A5%EF%B8%8F+Self-hosts+and+manages+private+Linux+servers;%F0%9F%8E%AF+NestJS+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI%2FRAG;%F0%9F%87%BA%F0%9F%87%BF+Tashkent+%E2%86%92+%F0%9F%87%B0%F0%9F%87%B7+Seoul" alt="Typing SVG" /></a></p>
+
+<br/>
 
 <!-- ═══════════════════ QUICK LINKS ═══════════════════ -->
 <p align="center"><a href="https://portfolio.ismaildev.uz"><img src="https://img.shields.io/badge/Portfolio-ismaildev.uz-1F3A5F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&nbsp;<a href="https://linkedin.com/in/ismoiljonmasharipov"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;<a href="mailto:career@ismaildev.uz"><img src="https://img.shields.io/badge/Email-career%40ismaildev.uz-E0B05F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a></p>
@@ -34,8 +38,9 @@ languages:
   - Russian     # Intermediate
 
 what_drives_me: >
-  I ship live, paid products — not tutorials.
-  Every project you see here is served from hardware I set up myself.
+  I engineer high-performance, local-first systems and autonomous AI agents.
+  Every live product shown below runs on bare-metal server infrastructure I configured and maintain myself.
+  No sandbox code, no boilerplate clones — only production systems built to scale.
 ```
 
 <br/>
@@ -182,13 +187,13 @@ what_drives_me: >
 
 <p align="center">
 
-| Metric | Detail |
-|--------|--------|
-| **API Latency** | Reduced critical endpoints from 200ms → 50ms via Redis caching and query optimization |
-| **Production Apps** | 5+ live systems running on self-hosted infrastructure, serving real users daily |
-| **Team Leadership** | Led a 4-person capstone team and mentored 20+ developers through production-ready projects |
-| **DevOps** | Automated CI/CD with Docker, GitHub Actions, and AWS (EC2, RDS, S3) |
-| **Hackathons** | AngelHack Seoul, SeoulHack — built and presented AI products |
+| Dimension | Engineering Impact & Core Metrics |
+|---|---|
+| **API Optimization** | Engineered query optimization & Redis caching layers, reducing critical endpoint response latency from **200ms → under 50ms** |
+| **Operational Scale** | Architected & deployed **5+ production systems** on self-managed Linux nodes, serving real users and paid clients daily |
+| **DevOps & Cloud** | Automated zero-downtime CI/CD pipelines using GitHub Actions, Docker, and **AWS (EC2, RDS, S3)**, saving hours of manual deployment |
+| **Technical Leadership** | Acted as Lead Architect for a 4-engineer IoT+AI capstone; designed curriculum & mentored **20+ developers** in shipping production web apps |
+| **Innovation & Speed** | Built and pitched functional AI/LLM products under 48-hour hackathon constraints (**AngelHack Seoul**, **SeoulHack**) |
 
 </p>
 
