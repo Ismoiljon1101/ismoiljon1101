@@ -252,30 +252,21 @@ what_drives_me: >
 
 <!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 
-## 💼 Experience
+## 💼 Impact Highlights
 
-```
-📌 Contract Software Engineer      │ Braintrust Network (Remote)      │ Aug 2025 — Present
-   → Microservice modules (NestJS, React, GraphQL) on production SaaS
-   → Reduced API latency 200ms → 50ms via Redis + query optimization
-   → Docker, GitHub Actions, AWS (EC2, RDS, S3) deployment pipelines
+<p align="center">
 
-📌 Full-Stack Bootcamp Lead         │ Devex.uz LLC (Seoul)             │ Jul 2024 — Feb 2025
-   → Designed curriculum for 20+ students; 3 grads got dev roles in 3 months
-   → Students shipped 5+ projects to production
+| Metric | Detail |
+|--------|--------|
+| **API Latency** | Reduced critical endpoints from 200ms → 50ms via Redis caching and query optimization |
+| **Production Apps** | 5+ live systems running on self-hosted infrastructure, serving real users daily |
+| **Team Leadership** | Led a 4-person capstone team and mentored 20+ developers through production-ready projects |
+| **DevOps** | Automated CI/CD with Docker, GitHub Actions, and AWS (EC2, RDS, S3) |
+| **Hackathons** | AngelHack Seoul, SeoulHack — built and presented AI products |
 
-📌 Teaching Assistant (Web Dev)      │ Sejong University (Seoul)        │ Jul 2023 — Jun 2024
-   → Mentored 50+ students (React, MongoDB, REST/GraphQL)
-   → Authored Docker deployment guides adopted as course material
+</p>
 
-📌 Software Developer               │ NovaTech Solutions (Tashkent)    │ Feb 2021 — Dec 2023
-   → Full-stack web apps and internal SaaS (JS, Express, PostgreSQL)
-   → Reduced page load times by 25% via query optimization
-```
 
-<br/>
-
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
 
 ## 📈 Contribution Activity
 
