@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<p align="center"><a href="https://github.com/ismoiljon1101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2E6FB0&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%9A%80+Ships+production+systems+%E2%80%94+not+demos;%F0%9F%96%A5%EF%B8%8F+Self-hosts+and+manages+private+Linux+servers;%F0%9F%8E%AF+NestJS+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI%2FRAG;%F0%9F%87%BA%F0%9F%87%BF+Tashkent+%E2%86%92+%F0%9F%87%B0%F0%9F%87%B7+Seoul" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/ismoiljon1101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2E6FB0&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=%F0%9F%9A%80+Ships+production+systems+%E2%80%94+not+demos;%F0%9F%96%A5%EF%B8%8F+Self-hosts+and+manages+private+Linux+servers;%F0%9F%8E%AF+NestJS+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI%2FRAG;%F0%9F%87%BA%F0%9F%87%BF+Tashkent+%E2%86%92+%F0%9F%87%B0%F0%9F%87%B7+Seoul" alt="Typing SVG" /></a></p>
 
 <br/>
 
