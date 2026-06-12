@@ -61,7 +61,7 @@ what_drives_me: >
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ismoiljon1101">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoiljon1101&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false&amp;langs_count=8&amp;hide=html,css,scss" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoiljon1101&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0F2238&amp;title_color=4A8EDC&amp;text_color=A8C4E0&amp;border_color=1F3A5F&amp;hide_border=false&amp;langs_count=8&amp;hide=html,css,scss,c,c%2B%2B,shell,nsis,powershell,ejs" />
   </a>
 </p>
 
@@ -96,10 +96,16 @@ what_drives_me: >
       <td><a href="https://pasarhalalkorea.com"><img src="https://img.shields.io/badge/LIVE-pasarhalalkorea.com-28a745?style=flat-square" /></a></td>
     </tr>
     <tr>
-      <td><b>🍔 Big Brother's Burger</b></td>
-      <td>Local-first QR-ordering + POS for a real restaurant. <b>Daily production use for months.</b> Direct USB thermal-printer control, sub-50ms LAN, fail-safe offline.</td>
+      <td><b>🍔 PosBoss v1 (Big Brother's Burger)</b></td>
+      <td>Local-first QR-ordering + POS system in <b>daily production use</b> at a working restaurant. Direct USB/network thermal-printer control, sub-50ms LAN latency, fail-safe offline operation.</td>
       <td><code>NestJS</code> <code>TypeScript</code> <code>PWA</code> <code>Thermal Printers</code></td>
       <td><a href="https://bigbrothers.uz"><img src="https://img.shields.io/badge/LIVE-bigbrothers.uz-28a745?style=flat-square" /></a></td>
+    </tr>
+    <tr>
+      <td><b>🚀 PosBoss v2</b></td>
+      <td>Distributed, multi-tenant POS platform evolved from v1. <b>Preparing for commercial release</b> as a lean startup. Multi-restaurant support, cloud sync, Electron desktop + PWA.</td>
+      <td><code>NestJS</code> <code>TypeScript</code> <code>Electron</code> <code>PWA</code> <code>MongoDB</code></td>
+      <td><img src="https://img.shields.io/badge/v2.0-In_Development-E0B05F?style=flat-square" /></td>
     </tr>
     <tr>
       <td><b>🐟 Fishlinic — AI Smart Aquarium</b></td>
@@ -274,20 +280,6 @@ what_drives_me: >
   <a href="https://github.com/ismoiljon1101">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismoiljon1101&amp;theme=tokyo-night&amp;bg_color=0F2238&amp;color=A8C4E0&amp;line=2E6FB0&amp;point=E0B05F&amp;area=true&amp;area_color=1F3A5F&amp;hide_border=false&amp;custom_title=Ismoiljon's%20Contribution%20Graph" width="100%" />
   </a>
-</p>
-
-<br/>
-
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
-
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismoiljon1101/ismoiljon1101/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismoiljon1101/ismoiljon1101/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ismoiljon1101/ismoiljon1101/output/github-snake.svg" />
-  </picture>
 </p>
 
 <br/>
